@@ -1,0 +1,5 @@
+total_quotes: 100
+unique_authors: 50
+unique_tags: 137
+mean_quote_len: 122.27
+median_quote_len: 86.0
